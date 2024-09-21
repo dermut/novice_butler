@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230312261280",
+    "project_id": "novice-butler",
+    "storage_bucket": "novice-butler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230312261280:android:fb97ce273a09c1f6a57bc5",
+        "android_client_info": {
+          "package_name": "com.example.novice_butler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAWG7H-ZaPYAJw6NTwD_mvqOwvWrs9Tyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
